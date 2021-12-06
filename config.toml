@@ -1,0 +1,4 @@
+baseURL = 'https://currrie.github.io/agarblog'
+languageCode = 'en-us'
+title = 'SimpleAgar'
+theme = "cactus"

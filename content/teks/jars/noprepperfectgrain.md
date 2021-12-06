@@ -1,6 +1,7 @@
 ---
-title: NoPrep Perfect Grain Jars:50:50 Oats/Millet Version
-date: 999-999
+title: "NoPrep Perfect Grain Jars:50:50 Oats/Millet Version - by Uncle Al"
+date: 2021-12-04T19:52:19-07:00
+draft: false
 category: agar
 tags:
     - perfectgrain
@@ -62,3 +63,5 @@ I use modded lids with a 3/16” hole and a filter disc stickers. I don’t like
 I run my jars STRAIGHT UP in the PC, no foil (because I have SFD stickers) for two hours. I let the pressure drop naturally, and once it’s equalized, I pull out the jars for the hot shake. Make sure to break up the wet mass at the bottom and mix it up really well. You can shake it up again after it cools. Not necessary to do it lots more, but if you want, go for it. 
 
 If you find you have a lot of burst grains, don’t fret, just reduce your water amount 5-10g on the next run. Every batch of grain is different, so it’s smart to pay attention to how that first batch goes. Only adjust by 5-10g up or down.
+---
+

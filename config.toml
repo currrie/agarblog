@@ -29,13 +29,13 @@ weight = 3
 
 [[menu.main]]
 name = "Teks"
-url = "/posts"
-weight = 9
+url = "/teks"
+weight = 4
 
 [[menu.main]]
 name = "Contact"
-url = "/contact"
-weight = 9
+url = "/about/contactus/"
+weight = 5
 
 
 [markup]
@@ -64,15 +64,15 @@ weight = 9
 
   # Home page settings
   description = "SimpleAgar is your go-to informational, free, framework, relating to everything Mycology. We are not only creators, but scientist that are helping spread information about magic mushrooms so people can make informed decisions about what they put in their bodies."
-  mainSection = "posts" # your main section
+  mainSection = "teks" # your main section
   showAllPostsOnHomePage = false # default
-  postsOnHomePage = 3 # this option will be ignored if showAllPostsOnHomePage is set to true
+  postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
-  showProjectsList = true # show projects list by default (if projects data file exists).
+  showProjectsList = false # show projects list by default (if projects data file exists).
   projectsUrl = "https://github.com/currrie" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
-  dateFormat = "2003-01-02" # default
+  dateFormat = "01-02-0003" # default
 
   # Post page settings
   show_updated = true # default
@@ -103,4 +103,4 @@ weight = 9
     link = "https://instagram.com/simple.agar"
   [[params.social]]
     name = "email"
-    link = "jon@simpleagar.org"  # no need for "mailto:" in the head
+    link = "support@simpleagar.org"  # no need for "mailto:" in the head

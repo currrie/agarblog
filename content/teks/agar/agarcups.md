@@ -1,6 +1,7 @@
 ---
-title: 3-2-1 Agar Agar Cups
-date: 2021-12-2 12:08:52
+title: "3-2-1 Easy Agar Cups - by Philly Golden Teacher"
+date: 2021-12-03T19:48:09-07:00
+draft: false
 category: agar
 tags:
     - agar

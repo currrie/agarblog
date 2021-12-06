@@ -1,6 +1,6 @@
 ---
-title: SGFC using PF/BRF Cakes
-date: 999-999
+title: " SGFC using PF/BRF Cakes"
+date: 2021-12-03T19:54:03-07:00
 category: substrate
 
 keywords:

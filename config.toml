@@ -2,3 +2,105 @@ baseURL = 'https://currrie.github.io/agarblog'
 languageCode = 'en-us'
 title = 'SimpleAgar'
 theme = "cactus"
+copyright = "SimpleAgar" # cactus will use title if copyright is not set
+disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
+# googleAnalytics = "UA-1234-5"
+
+
+# summaryLength = 2
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+tocInline = true
+
+[[menu.main]]
+name = "News"
+url = "/news"
+weight = 2
+
+
+[[menu.main]]
+name = "Forums"
+url = "/forums"
+weight = 3
+
+[[menu.main]]
+name = "Teks"
+url = "/posts"
+weight = 9
+
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 9
+
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 5
+    ordered = false
+    startLevel = 2
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "monokai"
+    tabWidth = 6
+  
+
+[params]
+
+  colortheme = "white" # dark, light, white, or classic
+  rss = true # generate rss feed. default value is false
+  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+  showAllPostsArchive = false # default
+
+  # Home page settings
+  description = "SimpleAgar is your go-to informational, free, framework, relating to everything Mycology. We are not only creators, but scientist that are helping spread information about magic mushrooms so people can make informed decisions about what they put in their bodies."
+  mainSection = "posts" # your main section
+  showAllPostsOnHomePage = false # default
+  postsOnHomePage = 3 # this option will be ignored if showAllPostsOnHomePage is set to true
+  tagsOverview = false # show tags overview by default.
+  showProjectsList = true # show projects list by default (if projects data file exists).
+  projectsUrl = "https://github.com/currrie" # title link for projects list
+
+  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  dateFormat = "2003-01-02" # default
+
+  # Post page settings
+  show_updated = true # default
+  showReadTime = true # default
+
+  [params.comments]
+    enabled = true # default
+    engine = "cactus_comments" # only disqus, utterances, and cactus_comments is supported
+    [params.comments.utterances]
+      repo = "<github_currrie>/<github_currrie>"
+      label = "hugo-site-name" # you can use however you want to label your name in your repo's issues
+      theme = "github-light"
+    [params.comments.cactuscomments]
+      siteName = "simpleagar.org" # see https://cactus.chat/ on how to register your site name
+      #serverUrl = "https://matrix.to/#/!RhqaKbNQVESGakwtOH:matrix.org?via=cactus.chat&via=matrix.org" # Defaults to https://matrix.cactus.chat:8448 (Cactus Chat public server)
+      #serverName = "SimpleAgar" # Defaults to cactus.chat
+
+  # the value of name should be an valid font awesome icon name (brands type)
+  # https://fontawesome.com/icons?d=gallery&s=brands
+  [[params.social]]
+    name = "facebook"
+    link = "https://www.facebook.com/groups/simpleagar"
+  [[params.social]]
+    name = "twitter"
+    link = "https://twitter.com/simple_agar"
+  [[params.social]]
+    name = "instagram"
+    link = "https://instagram.com/simple.agar"
+  [[params.social]]
+    name = "email"
+    link = "jon@simpleagar.org"  # no need for "mailto:" in the head

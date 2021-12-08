@@ -65,11 +65,11 @@ weight = 5
   # Home page settings
   description = "SimpleAgar is your go-to informational, free, framework, relating to everything Mycology. We are not only creators, but scientist that are helping spread information about magic mushrooms so people can make informed decisions about what they put in their bodies."
   mainSection = "teks" # your main section
-  showAllPostsOnHomePage = false # default
+  showAllPostsOnHomePage = true # default
   postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
-  projectsUrl = "https://github.com/currrie" # title link for projects list
+  projectsUrl = "https://currrie.github.io/agarblog/teks/" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
   dateFormat = "01-02-0003" # default

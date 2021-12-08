@@ -1,6 +1,6 @@
 ---
 title: "Getting Started?"
-date: 2021-12-05T19:49:57-07:00
+date: 2021-12-05T19:49:57-09:00
 category: getting started
 tags:
     - how to grow mushrooms

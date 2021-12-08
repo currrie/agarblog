@@ -1,0 +1,24 @@
+{
+   "list": [
+           {
+         "name":"Getting Started? Click here!",
+         "url":"/agarblog/teks/start/gettingstarted/",
+         "desc":"Great informational source to everyone getting started in mycology! "
+      }
+      {
+         "name":"3-2-1 Agar Cups by Philly Golden Teacher",
+         "url":"/agarblog/teks/agar/agarcups/",
+         "desc":"Easy recipe for agar cups, using condiment cups or petri dishes."
+      },
+      {
+         "name":"No Prep Perfect Grain Jars 50:50 Oats/Millet by Uncle Al",
+         "url":"/agarblog/teks/jars/noprepperfectgrain/",
+         "desc":"Easy recipe for Jars with Oats and/or Millet"
+      }
+      {
+         "name":"SGFC Using PF/BRF Cakes by SimpleAgar",
+         "url":"/agarblog/teks/brfcakes/sgfcusingpfbrfcakes/",
+         "desc":"Easy recipe regarding BRF cakes, "
+      }
+   ]
+}

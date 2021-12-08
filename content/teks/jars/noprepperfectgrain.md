@@ -15,7 +15,7 @@ keywords:
 ---
 
 ## Difficulty
-* I personally made 40quart jars, with two 23q pc's including the pressure cooker time in about 3 hours.
+`Beginner`
 
 ## Materials
 
@@ -25,11 +25,11 @@ keywords:
 * Water
 * Food grade scale
 * Pressure Cooker
-* *Optional* - Clean funnel
+* *Optional* - `Clean funnel`
 
 # How to?
 ### Oats - Quart Jars
-1.) 235grams of oats  //   
+1.) 235grams of oats  
 
 2.) 165grams of water
 
@@ -54,7 +54,7 @@ keywords:
 5. Place all of the jars you made up into a Pressure Cooker
 6. Add water to PC after all the jars are in, I usually go 1/2 the way up the jars that are standing in the bottom of PC. (You will be PCing for 2 hours, so dont want to run them dry)
 8. PC for 2 Hours at 15psi. *Very Important* - When the PCs get down to 0psi, and you can take the top off, use oven mitts and shake vigorously. This will disperse the humidity 
-9. Let cool down, and then infront of a PC, or SAB, knock your jars up! 
+9. Let cool down, and then infront of a PC, or SAB, knock your jars up with `agar` or `spore syringe`! 
 
 ## Tips 
 
